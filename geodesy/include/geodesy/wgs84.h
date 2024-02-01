@@ -40,6 +40,7 @@
 
 #include <limits>
 #include <ctype.h>
+#include <math.h>
 #include "geographic_msgs/msg/geo_point.hpp"
 #include "geographic_msgs/msg/geo_pose.hpp"
 #include "sensor_msgs/msg/nav_sat_fix.hpp"
